@@ -1,2 +1,2 @@
 # ppSCR
-Point process functions for analysis of spatial capture-recapture data using the R package NIMBLE.  
+Wolverine data analysis example shown in "A flexible and efficient Bayesian implementation of point process models for spatial capture-recapture data" Ecology 2022. 
